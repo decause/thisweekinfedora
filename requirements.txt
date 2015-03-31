@@ -3,3 +3,4 @@
 requests
 nikola
 pygal
+webassets
